@@ -1,1 +1,1 @@
-# Practice App
+# School Management Project
